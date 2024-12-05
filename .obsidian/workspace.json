@@ -1,37 +1,84 @@
 {
   "main": {
-    "id": "6d0a02bc4e69ac79",
+    "id": "16d244dc314235c5",
     "type": "split",
     "children": [
       {
-        "id": "186eb8692e48ed6e",
+        "id": "147a6fe27d5152d9",
         "type": "tabs",
         "children": [
           {
-            "id": "95d1746ff11d2b35",
+            "id": "4ba1c995c2c47e80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "parte teórica/css/Sobre Caixas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sobre Caixas"
+            }
+          },
+          {
+            "id": "1ea2a7a92e5a6cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parte teórica/css/Sobre Cores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sobre Cores"
+            }
+          },
+          {
+            "id": "07bca70c184616ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parte teórica/css/Sobre Texto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sobre Texto"
+            }
+          },
+          {
+            "id": "17536961da4846f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parte teórica/html/Sobre Base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sobre Base"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aa4416ac873545fb",
+    "id": "6cbd30b2f6a1a7ee",
     "type": "split",
     "children": [
       {
-        "id": "873bf42d94f96ab8",
+        "id": "45547dc720f10eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "72cfe36bed4e28c5",
+            "id": "0ecba4b27981c029",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +90,7 @@
             }
           },
           {
-            "id": "6337cb8e371b6f6e",
+            "id": "6e7be03c528ba4bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +107,7 @@
             }
           },
           {
-            "id": "cf5767299370ce29",
+            "id": "cee3edd2b66d5bd8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,22 +120,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5
   },
   "right": {
-    "id": "0f1c6c9301c0581a",
+    "id": "f82833fc9c933266",
     "type": "split",
     "children": [
       {
-        "id": "48a364025e5a6249",
+        "id": "4025419f0d872a9b",
         "type": "tabs",
+        "dimension": 59.13838120104438,
         "children": [
           {
-            "id": "2057d1d4a667aa30",
+            "id": "9129e91be669c177",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "02859fb160cc9ba4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "01f13797454728da",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "parte teórica/css/Sobre Texto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +167,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Sobre Texto"
             }
           },
           {
-            "id": "05e3191cd8352c33",
+            "id": "890a48771f96f157",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Escola/Matemática/Conteúdos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Conteúdos"
             }
           },
           {
-            "id": "c8f9b692e34fa494",
+            "id": "669ffb1e297a39e3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,32 +198,102 @@
             }
           },
           {
-            "id": "3b2e6d0167de2afd",
+            "id": "38956f6aba6e2fae",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "parte teórica/css/Sobre Texto.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Sobre Texto"
+            }
+          },
+          {
+            "id": "e8f3f9f7d6022294",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "6017279d8d928441",
+        "type": "tabs",
+        "dimension": 40.86161879895561,
+        "children": [
+          {
+            "id": "56e3834d601fcb04",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 314.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
+      "graph:Abrir visualização em gráfico": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "95d1746ff11d2b35",
-  "lastOpenFiles": []
+  "active": "07bca70c184616ea",
+  "lastOpenFiles": [
+    "parte teórica/css/Sobre Cores.md",
+    "parte teórica/css/Sobre Caixas.md",
+    "parte teórica/html/Sobre Base.md",
+    "parte teórica/css/Sobre Texto.md",
+    "parte teórica/css/Sobre Display.md",
+    "parte teórica/css/Sobre Reset.md",
+    "parte teórica/html/Sobre Texto.md",
+    "parte teórica/html/Sobre Estrutura.md",
+    "parte teórica/html/Estrutura-de-um-site-em-HTML5-2396253200.webp",
+    "parte teórica/html/Estrutura-de-um-site-em-HTML5.webp",
+    "Pentest Web/Coleta de informações/Como deve ficar.md",
+    "Pentest Web/Coleta de informações/Nikto (subdominios).md",
+    "Pentest Web/Coleta de informações/Nmap (redes).md",
+    "Pentest Web/Coleta de informações/Waf00f.md",
+    "Pentest Web/Vulnerabilidades/DoS (A00)/Man hping3.md",
+    "Pentest Web/Vulnerabilidades/IDOR/IDOR.md",
+    "Pentest Web/Vulnerabilidades/LFI e RFI (A01)/Como fazer (RFI).md",
+    "Pentest Web/Vulnerabilidades/LFI e RFI (A01)/DotDotPwn (RFI).md",
+    "Pentest Web/Vulnerabilidades/LFI e RFI (A01)/Oque é (RFI).md",
+    "Pentest Web/Vulnerabilidades/LFI e RFI (A01)/Reverse shell (LFI).md",
+    "Pentest Web/Vulnerabilidades/DoS (A00)/Flood.md",
+    "Pentest Web/Vulnerabilidades/CVE/CVE's.md",
+    "Pentest Web/Coleta de informações/Sublist3r (redes).md",
+    "Pentest Web/Coleta de informações/Curl (subdominios).md",
+    "Pentest Web/Comunicação web/Cookies.md",
+    "Osint/Lista de ferramentas.md",
+    "Osint/Ferramentas/man/Steghide.md",
+    "Anotações/Roadmap.md",
+    "Escola/Matemática/M.M 1.canvas",
+    "Escola/História/Mapa mental.canvas",
+    "smart-chats",
+    "Escola/História/M.M 1.canvas"
+  ]
 }
