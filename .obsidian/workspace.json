@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parte teórica/css/Sobre Texto.md",
-                "mode": "source",
+                "file": "html/Sobre Texto.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -137,8 +137,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parte teórica/css/Sobre Texto.md"
+                "file": "html/Sobre Texto.md"
               },
               "icon": "lucide-list",
               "title": "Sumário de Sobre Texto"
@@ -219,8 +219,7 @@
               "title": "Fila de Notas para Revisar"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "6017279d8d928441",
@@ -253,16 +252,14 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "07bca70c184616ea",
   "lastOpenFiles": [
+    "html/Sobre Estrutura.md",
+    "html/Sobre Base.md",
+    "html/Sobre Texto.md",
     "parte teórica/css/Sobre Cores.md",
     "parte teórica/css/Sobre Caixas.md",
     "parte teórica/html/Sobre Base.md",
@@ -288,9 +285,6 @@
     "Pentest Web/Coleta de informações/Sublist3r (redes).md",
     "Pentest Web/Coleta de informações/Curl (subdominios).md",
     "Pentest Web/Comunicação web/Cookies.md",
-    "Osint/Lista de ferramentas.md",
-    "Osint/Ferramentas/man/Steghide.md",
-    "Anotações/Roadmap.md",
     "Escola/Matemática/M.M 1.canvas",
     "Escola/História/Mapa mental.canvas",
     "smart-chats",

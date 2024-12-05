@@ -4,5 +4,5 @@ O HTML é uma linguagem de hyper texto logo é de se pensar que seus principais 
 * `p` : Para separação de parágrafos
 * `br` : Para quebra de linha
 * `a` : Para colocar textos com links
-* `ul - ol` : Para iniciar uma lista
 * `li` : Para os itens da lista
+*  `ul - ol` : Para iniciar uma lista
