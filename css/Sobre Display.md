@@ -20,3 +20,18 @@ O display inline-block funciona da seguinte forma:
 * Ele permite o alinhamento de vários itens dentro de uma linha.
 * Ele deixa usar configurações de posicionamento livremente.
 * É útil para cenários como alinhamento horizontal de itens com dimensões controladas.
+## Display: Flex
+
+O display flex funciona da seguinte forma:
+
+- Ele organiza os itens em uma única dimensão (linha ou coluna), permitindo alinhamento e distribuição flexíveis.
+- Ele permite configurar o comportamento dos itens em relação ao tamanho, alinhamento e crescimento dentro do contêiner.
+- É útil para criar layouts dinâmicos e responsivos, onde os itens se adaptam ao espaço disponível.
+
+## Display: Flexbox
+
+O Flexbox funciona da seguinte forma:
+
+- Ele organiza os itens de forma dinâmica em um único eixo (linha ou coluna), com controle total sobre alinhamento e espaçamento.
+- Ele oferece alinhamento fácil, tanto horizontal quanto vertical, usando propriedades simples como `justify-content` e `align-items`.
+- É útil para criar layouts responsivos e flexíveis, eliminando a necessidade de cálculos manuais.
